@@ -1,47 +1,130 @@
 # ARMANRAYA Co.
 
-### Web Design & Development
+<div align="center">
 
-Welcome to **ARMANRAYA Co.** — a creative technology company focused on building modern, professional, and high-quality digital experiences for businesses worldwide.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=220&section=header&text=ARMANRAYA%20Co.&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Web%20Design%20%7C%20Web%20Development%20%7C%20Digital%20Solutions&descAlignY=60&descSize=17" width="100%" alt="ARMANRAYA Co. banner"/>
 
-We combine thoughtful design, reliable development, and modern technologies to help businesses establish a strong online presence.
+### Building Digital Experiences That Move Businesses Forward.
 
-## What We Do
+We design and develop modern, professional, and high-performance digital solutions for businesses around the world.
 
-* **Web Design** — Modern, responsive, and user-focused website designs.
-* **Web Development** — Scalable and maintainable websites and web applications.
-* **Business Websites** — Professional digital solutions tailored to business needs.
-* **Custom Solutions** — Technology and development solutions designed around unique requirements.
+<p>
+  <a href="https://armanraya.com">
+    <img src="https://img.shields.io/badge/Website-armanraya.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:info@armanraya.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Us-1e40af?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-## Our Technology
-
-Our projects may use a variety of modern technologies, including:
-
-* HTML, CSS, JavaScript
-* Python & Django
-* Git & GitHub
-* Responsive Web Design
-* Modern deployment and hosting solutions
-
-## Our Approach
-
-We believe great digital products are built through a combination of:
-
-1. Clear communication
-2. Thoughtful design
-3. Clean and reliable code
-4. Continuous improvement
-
-## Projects
-
-Explore our repositories to discover our projects, development work, and technical solutions.
-
-## Connect With Us
-
-🌐 **Website:** [armanraya.com](https://armanraya.com)
-
-📧 **Email:** [info@armanraya.com](mailto:info@armanraya.com)
+</div>
 
 ---
 
-© ARMANRAYA Co. All rights reserved.
+## 🏢 About ARMANRAYA
+
+**ARMANRAYA Co.** is a web design and development company dedicated to helping businesses establish a compelling and reliable digital presence.
+
+We bring together creative design, modern development practices, and business-focused thinking to create websites and digital experiences that are visually engaging, responsive, and built for growth.
+
+Our work focuses on transforming ideas into purposeful digital products that connect businesses with their audiences.
+
+## 🚀 Our Services
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎨 Web Design
+
+Creating modern, responsive, and user-centered website designs that communicate your brand and engage your audience.
+
+</td>
+    <td width="50%" valign="top">
+
+### 💻 Web Development
+
+Developing reliable, maintainable, and scalable websites and web applications using modern technologies.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏢 Business Websites
+
+Professional digital solutions tailored to the unique goals and requirements of businesses.
+
+</td>
+    <td width="50%" valign="top">
+
+### ⚙️ Custom Solutions
+
+Building flexible digital experiences and technical solutions to support evolving business needs.
+
+</td>
+  </tr>
+</table>
+
+## 🛠️ Technology & Expertise
+
+<div align="center">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="Frontend technologies"/>
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,django" alt="Backend technologies"/>
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,docker" alt="Development and deployment tools"/>
+
+</div>
+
+## 🌐 Our Development Philosophy
+
+We believe successful digital products are built on four essential principles:
+
+| Principle  | Our Commitment                                                     |
+| ---------- | ------------------------------------------------------------------ |
+| 🎯 Purpose | Every project should serve a clear business objective.             |
+| ✨ Design   | Interfaces should be intuitive, modern, and engaging.              |
+| 🔒 Quality | Code should be reliable, maintainable, and thoughtfully developed. |
+| 📈 Growth  | Solutions should be adaptable to future business requirements.     |
+
+## 📂 Our Projects
+
+Explore our GitHub repositories to discover our development projects, experiments, and digital solutions.
+
+Each repository represents an opportunity to learn, build, and deliver better digital experiences.
+
+## 🤝 Let's Build Something Great
+
+Have a business idea, a website project, or a digital solution in mind?
+
+We would be happy to discuss how ARMANRAYA Co. can help bring your vision to life.
+
+<div align="center">
+
+<a href="https://armanraya.com">
+  <img src="https://img.shields.io/badge/Visit%20Our%20Website-ARMANRAYA%20Co.-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit website"/>
+</a>
+
+<a href="mailto:info@armanraya.com">
+  <img src="https://img.shields.io/badge/Get%20In%20Touch-Contact%20Us-1e40af?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact us"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a8a&height=100&section=footer" width="100%" alt="Footer"/>
+
+**ARMANRAYA Co.**
+
+*Design. Develop. Elevate.*
+
+© 2026 ARMANRAYA Co. All rights reserved.
+
+</div>
